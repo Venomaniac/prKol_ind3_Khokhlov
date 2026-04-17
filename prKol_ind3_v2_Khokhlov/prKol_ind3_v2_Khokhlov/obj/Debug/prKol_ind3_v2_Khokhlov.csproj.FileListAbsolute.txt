@@ -1,0 +1,8 @@
+C:\Users\rodio\OneDrive\Desktop\Алгоритмизация\prKol_ind3_v2_Khokhlov\prKol_ind3_v2_Khokhlov\bin\Debug\prKol_ind3_v2_Khokhlov.exe.config
+C:\Users\rodio\OneDrive\Desktop\Алгоритмизация\prKol_ind3_v2_Khokhlov\prKol_ind3_v2_Khokhlov\bin\Debug\prKol_ind3_v2_Khokhlov.exe
+C:\Users\rodio\OneDrive\Desktop\Алгоритмизация\prKol_ind3_v2_Khokhlov\prKol_ind3_v2_Khokhlov\bin\Debug\prKol_ind3_v2_Khokhlov.pdb
+C:\Users\rodio\OneDrive\Desktop\Алгоритмизация\prKol_ind3_v2_Khokhlov\prKol_ind3_v2_Khokhlov\obj\Debug\prKol_ind3_v2_Khokhlov.csproj.AssemblyReference.cache
+C:\Users\rodio\OneDrive\Desktop\Алгоритмизация\prKol_ind3_v2_Khokhlov\prKol_ind3_v2_Khokhlov\obj\Debug\prKol_ind3_v2_Khokhlov.csproj.CoreCompileInputs.cache
+C:\Users\rodio\OneDrive\Desktop\Алгоритмизация\prKol_ind3_v2_Khokhlov\prKol_ind3_v2_Khokhlov\obj\Debug\prKol_ind3_v2_Khokhlov.exe
+C:\Users\rodio\OneDrive\Desktop\Алгоритмизация\prKol_ind3_v2_Khokhlov\prKol_ind3_v2_Khokhlov\obj\Debug\prKol_ind3_v2_Khokhlov.pdb
+C:\Users\rodio\OneDrive\Desktop\Алгоритмизация\prKol_ind3_v2_Khokhlov\prKol_ind3_v2_Khokhlov\obj\Debug\prKol_ind3_v2_Khokhlov.exe.config
